@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # duodian
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vueAndReact
+项目整合
+>>>>>>> a5637b59748463e469c85f896d41778ce144755e
